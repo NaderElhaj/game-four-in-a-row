@@ -1,2 +1,2 @@
-# game-gour-in-a-row
+# game-four-in-a-row
 Interactive Game Built with Object Oriented Javascript
